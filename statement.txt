@@ -1,0 +1,408 @@
+
+--------------Welcome-----------------
+Date :29/8/1999
+Time :- 3.00
+
+--------------Welcome-----------------
+Date :23/11/2005
+Time :- 3.30
+
+--------------Welcome-----------------
+Date :13/4/1980
+Time :- 3.20
+
+--------------Welcome-----------------
+Date :19/11/2022
+Time :- 2.33
+
+
+
+--------------Welcome-----------------
+Date :15/11/2022
+Time :17.00
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.0
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.0
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :15/11/2022
+Time :17.01
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.440
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.440
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :15/11/2022
+Time :19.00
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	2   X   10	20	5-Star_Chocolates 
+	2   X   10	20	Milk_Biscuits 
+	2   X   10	20	Mari-Light 
+	1   X   10	10	Dark-Fantasy 
+	2   X   05	10	Mixture 
+	1   X   10	10	Kurkure 
+	----------------------------------------
+	Expenditure:	90 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.440
+Deposited Amount:Rs.0
+Expenditure     :Rs.90
+Current A/c Balance :Rs.350
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :18/11/2022
+Time :1.30
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   40	40	Chapathi 
+	----------------------------------------
+	Expenditure:	40 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.350
+Deposited Amount:Rs.0
+Expenditure     :Rs.40
+Current A/c Balance :Rs.310
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :20/11/2022
+Time :16.40
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   10	10	Krack-Jack 
+	2   X   10	20	5-Star_Chocolates 
+	1   X   10	10	Dark-Fantasy 
+	2   X   10	20	Kurkure 
+	1   X   10	10	Chips 
+	----------------------------------------
+	Expenditure:	70 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.310
+Deposited Amount:Rs.0
+Expenditure     :Rs.70
+Current A/c Balance :Rs.240
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :21/11/2022
+Time :16.00
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   30	30	Others 
+	----------------------------------------
+	Expenditure:	30 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.240
+Deposited Amount:Rs.0
+Expenditure     :Rs.30
+Current A/c Balance :Rs.210
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :21/11/2022
+Time :16.01
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   10	10	others 
+	----------------------------------------
+	Expenditure:	10 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.210
+Deposited Amount:Rs.0
+Expenditure     :Rs.10
+Current A/c Balance :Rs.200
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :23/11/2022
+Time :9.00
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.200
+Deposited Amount:Rs.500
+Expenditure     :Rs.0
+Current A/c Balance :Rs.700
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :23/11/2022
+Time :9.01
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.700
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.700
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :23/11/2022
+Time :23.00
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   30	30	Coconut_temple 
+	2   X   10	20	Entry_fee 
+	1   X   60	60	Donate 
+	2   X   50	100	Laddu 
+	1   X   20	20	Travel_ticket 
+	----------------------------------------
+	Expenditure:	230 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.700
+Deposited Amount:Rs.0
+Expenditure     :Rs.230
+Current A/c Balance :Rs.470
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :24/11/2022
+Time :0.44
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.470
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.470
+--------------THANK YOU--------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.470
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.470
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :25/11/2022
+Time :18.34
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.470
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.470
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :25/11/2022
+Time :19.46
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	2   X   10	20	5-Star_Chocolates 
+	1   X   10	10	50-50_Biscuits 
+	2   X   10	20	HAPPY-HAPPY 
+	2   X   40	80	Books 
+	10   X   01	10	A4-Papaers 
+	2   X   10	20	Sev-Murmura 
+	----------------------------------------
+	Expenditure:	160 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.470
+Deposited Amount:Rs.0
+Expenditure     :Rs.160
+Current A/c Balance :Rs.310
+--------------THANK YOU--------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.310
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.310
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :23/12/2022
+Time :10.24
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   310	310	Others 
+	----------------------------------------
+	Expenditure:	310 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.310
+Deposited Amount:Rs.0
+Expenditure     :Rs.310
+Current A/c Balance :Rs.0
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :23/12/2022
+Time :10.24
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.0
+Deposited Amount:Rs.500
+Expenditure     :Rs.0
+Current A/c Balance :Rs.500
+--------------THANK YOU--------------
+
+
+--------------Welcome-----------------
+Date :23/12/2022
+Time :22.33
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	2   X   10	20	HAPPY-HAPPY 
+	2   X   10	20	Marie-Gold 
+	1   X   30	30	Glucose-D_Powder 
+	2   X   10	20	5-Star_Chocolates 
+	1   X   10	10	Krack-Jack 
+	----------------------------------------
+	Expenditure:	100 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.500
+Deposited Amount:Rs.0
+Expenditure     :Rs.100
+Current A/c Balance :Rs.400
+--------------THANK YOU--------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.400
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.400
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :29/12/2022
+Time :10.30
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   25	25	Puri 
+	----------------------------------------
+	Expenditure:	25 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.400
+Deposited Amount:Rs.0
+Expenditure     :Rs.25
+Current A/c Balance :Rs.375
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :29/12/2022
+Time :12.00
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	1   X   50	50	Fine 
+	----------------------------------------
+	Expenditure:	50 
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.375
+Deposited Amount:Rs.0
+Expenditure     :Rs.50
+Current A/c Balance :Rs.325
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :30/12/2022
+Time :9.54
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.325
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.325
+--------------THANK YOU--------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.325
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.325
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :30/12/2022
+Time :11.25
+
+	----------------------------------------
+	count	rate	Price	Product Name
+	----------------------------------------
+	10   X   01	10	Kopiko_chocolates 
+	2   X   10	20	Mari_gold 
+	3   X   10	30	Milk_Biscuits 
+	2   X   10	20	alpenlebe_chocolates 
+	1   X   10	10	Krack_Jack 
+	1   X   10	10	Lays_Chips 
+	----------------------------------------
+	Expenditure:	100
+	----------------------------------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.325
+Deposited Amount:Rs.0
+Expenditure     :Rs.100
+Current A/c Balance :Rs.225
+--------------THANK YOU--------------
+
+--------------Welcome-----------------
+Date :30/12/2022
+Time :11.31
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.225
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.225
+--------------THANK YOU--------------
+
+A/c holder name :Divyateja
+A/c Balance     :Rs.225
+Deposited Amount:Rs.0
+Expenditure     :Rs.0
+Current A/c Balance :Rs.225
+--------------THANK YOU--------------
